@@ -12,7 +12,13 @@ This tool allows you to download images from a
 
    ```
 
-2. Run the Project
+2. Install package
+
+   ```bash
+   npm i
+   ```
+
+3. Run the Project
 
    ```bash
    node index.js
